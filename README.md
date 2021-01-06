@@ -12,7 +12,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [x] Go to the repository.
 
-- [ ] Fork this repository to your GitHub account.
+- [x] Fork this repository to your GitHub account.
 
 - [ ] Create a new project on Glitch that imports your repo from GitHub.
 
